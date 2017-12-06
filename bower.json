@@ -1,0 +1,17 @@
+{
+  "name": "personal-site",
+  "homepage": "https://github.com/J-Waddell/personal-site",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.6.7"
+  }
+}
